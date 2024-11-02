@@ -52,7 +52,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/nsrddn/nsrddn/output/snake.svg" alt="Snake animation" />
-
-###
